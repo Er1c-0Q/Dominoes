@@ -24,7 +24,7 @@ public static int operator +(Dominó a, Dominó b)
     private static void Main(string[] args)
     {
         Dominó d1= new Dominó(0,1);
-        Dominó d2= new Dominó(2,3);
+        Dominó d2= new Dominó(1,4);
 
         int total= d1+d2;
 
